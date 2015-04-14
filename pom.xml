@@ -6,11 +6,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>im.tretyakov</groupId>
-  <artifactId>springboot-rest-mongodb-angular-swagger-archetype-archetype</artifactId>
+  <artifactId>springboot-rest-mongodb-angular-swagger-archetype</artifactId>
   <version>0.1</version>
   <packaging>maven-archetype</packaging>
 
-  <name>springboot-rest-mongodb-angular-swagger-archetype-archetype</name>
+  <name>springboot-rest-mongodb-angular-swagger-archetype</name>
 
   <build>
     <extensions>
